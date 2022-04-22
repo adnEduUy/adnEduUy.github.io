@@ -9,4 +9,4 @@ Imagen obtenida de [unsplash](https://unsplash.com/photos/NoOrDKxUfzo)
 
 ### Soporte y contacto
 
-nos podes escribir a [este correo](mailto:felipes88@gmail.com) si tenes dudas o consultas
+nos podes escribir a [este correo](mailto:hola@adn.edu.uy) si tenes dudas o consultas
